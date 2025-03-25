@@ -26,6 +26,10 @@ class Solution {
             arr[a[1] - 1][a[0] - 1] = a[2];
         }
 
+        // 수정 1
+        // 수정 2
+        // 수정 3
+
         // 최소거리를 시작지점 1번 마을 기준으로 초기화
         for (int i = 0; i < N; i++) {
             distance[i] = arr[0][i];
