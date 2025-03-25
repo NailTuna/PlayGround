@@ -1,6 +1,8 @@
 import java.util.Arrays;
 
 //다익스트라(Dijkstra) 알고리즘
+
+//test
 public class dijkstra {
 
     static int[][] arr;
